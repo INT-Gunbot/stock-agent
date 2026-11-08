@@ -1,0 +1,18 @@
+# 个人数据（不公开，避免泄露真实持仓/缓存）
+positions.csv
+data/
+reports/
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 本地数据库 / 缓存
+*.db
+*.duckdb
+*.sqlite
+*.sqlite3
+*.jsonl
